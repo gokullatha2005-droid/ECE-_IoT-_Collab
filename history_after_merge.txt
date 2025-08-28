@@ -1,0 +1,6 @@
+*   a92edf4 (HEAD -> main) Merge feature_cloud: resolve conflict in sensor.py; keep both prints
+|\  
+| * b2afb28 (feature_cloud) feature(cloud): add cloud send print statement
+* | 3948695 (feature_sensor) feature(sensor): add soil moisture reading print statement
+|/  
+* bbaa869 Update project notes with status section
